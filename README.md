@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm thuria</h1>
-<h3 align="center">I'm software engineer</h3>
+<h1 align="center">Hi 👋, I'm Thuria</h1>
+<h3 align="center">I'm Software Engineer</h3>
 
 - 🔭 I’m currently trainer on **tuwaiq academy**
 
